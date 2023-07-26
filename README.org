@@ -1,0 +1,10 @@
+* cl-base16
+
+Common Lisp implementation of the base16 builder specification
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tpine/cl-base16.git   |
+| commit  | ae4b7f4  |
+| systems | cl-base16 |
+|---------+-------------------------------------------|
+
